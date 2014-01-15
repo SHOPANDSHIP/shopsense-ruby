@@ -22,7 +22,7 @@ module Shopsense
                 'get_trends_path'             => '/action/apiGetTrends?',
                 'get_category_histogram_path' => '/action/apiGetCategoryHistogram?',
                 'get_filter_histogram_path'   => '/action/apiGetFilterHistogram?',
-                'filter_types'                => ['Brands', 'Retailer', 'Price', 'Discount', 'Size', 'Color'],
+                'filter_types'                => ['Brand', 'Retailer', 'Price', 'Discount', 'Size', 'Color'],
                 'look_types'                  => ['New', 'TopRated', 'Celebrities', 'Featured'],
                 'formats'                     => ['xml', 'json', 'json2', 'jsonvar', 'jsonvar2', 'jsonp', 'rss'],
                 'sites'                       => ['www.shopstyle.com', 'www.shopstyle.co.uk']}
